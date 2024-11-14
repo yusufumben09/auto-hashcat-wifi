@@ -1,4 +1,3 @@
-#geliştirilmiş adlandırma gereksinimi olmayan autopcapbreaker. HASHCAT KULLANIYOR
 import os
 import time
 dir_path = os.path.dirname(os.path.realpath(__file__))#py dosyasının diri alınıp komutlar için chdir ile belirtiliyor.
